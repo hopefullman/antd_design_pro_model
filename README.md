@@ -1,0 +1,4 @@
+# antd_design_pro_model
+在model中发起网络请求
+我本地使用charles模拟一个api
+然后再model中发起请求
